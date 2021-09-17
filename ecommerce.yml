@@ -1,6 +1,6 @@
 token:
   expiration_time: 864
-  secret: valu1
+  secret: value1
 
 gateway:
   ip: 180.70.31.115
