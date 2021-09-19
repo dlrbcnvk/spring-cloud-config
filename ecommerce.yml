@@ -3,7 +3,7 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb
     username: sa
-    password: '{cipher}AQBmCfTwyYRIkn/Jy72Oe8q3pMmxj+bSDZHYK9HYEqMYbIq74lYiajJoyx+t4B7TOLcyRnBEGKSZ8LRLJcpTajoyEplVqzzjP7zedCDHGb9ZwVFEaMvn1IBqrA2mjTnlJTG/P/ZYNDz35bcfFigOJRSYNKsI66zgHjbGr83NU/pZL/asW1hdiw60rHzZBOGYHHAcOvOPHd+AyPIfy58PAhgQzM8ZLyyz3Rh40wySNS5Jb8vxd++GQcIbVrTxdAOl8nEo86+zbthGrf1XxdItFjqa8Rp45pyotM8UzSssVWU0IsP8oSfqlMNPrDylRJGsMg6e48KLlS9AA6h3uJ1iO9K/+YmQVDiyrAZdFwvPZt8GZtdOvmEeAWSPEVET7w2PDcQ='
+    password: '{cipher}AQA2LSHXau39CoB9R3pyZ0cbnP8vxVCvLkDEen/D84pr00ZIMoiruclGoF5hTOF0pGBiIzRtUODkHBaUhgdCcp/7H8lIfKiYUnN9uoXlwhIROOGWjbVpsEPhBrok3Iw11FRTjgOoA/UK0eCZp8wP/llRtTS7oG+1NGMIjB+VnrHuqB1Xx5JqxsurDtORza7e8SIHRy3C9YAs3BH7pjXTgUKTWg5b+107KfjP5f3V4y8Oa/g0ouFjsqKMYdLbaVviv8zY8HmA5FRDN/gfb282v9L36xV1uTWmK1sR2WBekvGfpoa1OhlhOGbHr7tfq0+NLHHdfcViRkmvb52oo1PiuMhxXmDBXfsM/Er/6+VuCJdvojWNAxbZsfV4Kd0A3+Ph69d8bCLJiC7txLtgJOcUDYot'
 
 token:
   expiration_time: 86400000
