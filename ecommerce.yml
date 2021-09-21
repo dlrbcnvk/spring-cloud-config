@@ -11,3 +11,6 @@ token:
 
 gateway:
   ip: 180.70.31.115
+
+order_service:
+  url: "http://127.0.0.1:8000/order-service-ecommerce/%s/orders"
